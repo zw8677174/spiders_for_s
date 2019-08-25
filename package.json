@@ -1,0 +1,22 @@
+{
+  "name": "spiders_for_s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zw8677174/spiders_for_s.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zw8677174/spiders_for_s/issues"
+  },
+  "homepage": "https://github.com/zw8677174/spiders_for_s#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
